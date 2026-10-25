@@ -632,6 +632,14 @@ Why it matters: This step curbs toxic outputs, reduces hallucinations, and align
 7. Evaluation and Deployment
 What happens: Before shipping, the model undergoes rigorous benchmarks testing its reasoning, coding, math, and factual accuracy against held-out datasets. Once passed, it is optimized for inference (using quantization, KV caching, or tensor parallelism) and deployed into production via APIs or user-facing applications.
 
+| Comparison Criteria | ChatGPT | Gemini AI |
+| --- | --- | --- |
+| Accuracy | Provides accurate answers but may make mistakes. | Provides accurate answers but may make mistakes. |
+| Creativity | Strong in storytelling, writing, and brainstorming. | Strong in content creation and idea generation. |
+| Hallucination | May generate false or misleading information. | May generate false or misleading information. |
+| Reasoning | Good at logical problem-solving and coding tasks. | Good at logical problem-solving and coding tasks. |
+| Speed | Generally responds quickly, depending on the task. | Generally responds quickly, depending on the task. |
+
 # Result
 
 The comparison of ChatGPT and Gemini AI shows that both tools are useful for accuracy, creativity, reasoning, and fast responses. Both have strengths and limitations, including the possibility of generating incorrect information. The best tool depends on the user's needs and the type of task.
